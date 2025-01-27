@@ -1,18 +1,5 @@
-# Ignore Visual Studio files
-.vs/
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
-*.sln
-
-# Ignore build directories
-Binaries/
+# Ignore Unreal Engine build files
 Intermediate/
-Saved/
-DerivedDataCache/
-
-# Ignore system files
-Thumbs.db
-desktop.ini
-.DS_Store
+Binaries/
+.vs/
 *.log
